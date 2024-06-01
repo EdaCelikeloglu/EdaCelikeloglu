@@ -1,7 +1,8 @@
-👋 Hi, I'm Eda!
+#👋 Hi, I'm Eda!
 I am Eda Çelikeloğlu, a data enthusiast who is developing expertise in data science and machine learning. I graduated as a data science specialist from the Istanbul Kodluyor project. I work with Python programming language and have gained experience in data visualization, data analysis, and creating interactive data applications using Streamlit.
 
-💼 My Technical Skills
+
+#💼 My Technical Skills
 Data Science and Machine Learning: Proficient in data preprocessing, model building, and evaluation.
 Python: Developing data analysis, data visualization, and machine learning projects using Python.
 Data Visualization: Creating visualizations with libraries such as Matplotlib, Seaborn, and Plotly.
