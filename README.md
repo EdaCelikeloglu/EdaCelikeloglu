@@ -31,7 +31,7 @@ I am Eda Çelikeloğlu, a data enthusiast who is developing expertise in data sc
 **💡 My Projects**
 
 - **Woman in Datathon**: Placed first 🥇 — predicts gender wage gap via multiple linear regression using impact of health, labor force participation, gender roles, and political representation. Kaggle link: [https://www.kaggle.com/code/edacelikeloglu/1st-place-upschoolxbitexen-datathon-mar24]
-- **Churninator**: İstanbul Kodluyor Data Science bootcamp finishing project: predicts credit card customer churn rate with 92% recall rate.
+- **Churninator**: İstanbul Kodluyor Data Science bootcamp finishing project: predicts credit card customer churn rate with 92% recall rate. Streamlit link: [https://churninators.streamlit.app/]
 
 **🎉 My Interests**
 
