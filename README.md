@@ -26,7 +26,7 @@ I am Eda Çelikeloğlu, a data enthusiast who is developing expertise in data sc
 
 - Email: [edacelikeloglu@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/eda-celikeloglu/]
-- Kaggle: [https://www.kaggle.com/edacelikeloglu)]
+- Kaggle: [https://www.kaggle.com/edacelikeloglu]
 
 **💡 My Projects**
 
