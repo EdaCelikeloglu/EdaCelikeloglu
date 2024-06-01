@@ -5,7 +5,7 @@ I am Eda Çelikeloğlu, a data enthusiast who is developing expertise in data sc
 
 **💼 My Technical Skills**
 
--Data Science and Machine Learning: Proficient in data preprocessing, model building, and evaluation.
+- **Data Science and Machine Learning**: Proficient in data preprocessing, model building, and evaluation.
 -Python: Developing data analysis, data visualization, and machine learning projects using Python.
 -Data Visualization: Creating visualizations with libraries such as Matplotlib, Seaborn, and Plotly.
 -Streamlit: Presenting my data analyses and models as interactive web applications using Streamlit.
